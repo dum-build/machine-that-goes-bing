@@ -1,0 +1,9 @@
+{
+	"name": "machine-that-goes-bing",
+	"version": "0.0.0",
+	"dependencies": {
+		"node-pico": "2.0.0"
+	},
+	"repository": "dum-build/machine-that-goes-bing",
+	"license": "WTFPL"
+}
